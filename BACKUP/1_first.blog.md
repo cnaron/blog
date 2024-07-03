@@ -1,3 +1,3 @@
-# [first blog](https://github.com/cnaron/gitblog/issues/1)
+# [first blog](https://github.com/cnaron/blog/issues/1)
 
-第一章
+兜兜转转一大圈，还是回到了 GitHub 上建博客，还是持久稳定的最让人安心。
