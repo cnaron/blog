@@ -5,18 +5,23 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 [RSS Feed](https://raw.githubusercontent.com/cnaron/blog/master/feed.xml)
 
 ## 最近更新
+- [藏在优惠之下的昂贵](https://github.com/cnaron/blog/issues/7)--2025-12-08
 - [一年过去了](https://github.com/cnaron/blog/issues/6)--2025-11-27
 - [我不想分别](https://github.com/cnaron/blog/issues/5)--2024-11-27
 - [那些被一再搁浅，却又总在心里回响的计划们](https://github.com/cnaron/blog/issues/4)--2024-10-02
 - [漫长的假期](https://github.com/cnaron/blog/issues/3)--2024-08-19
-- [一场将行未行的旅行](https://github.com/cnaron/blog/issues/2)--2024-07-08
 ## 生活
 
+- [藏在优惠之下的昂贵](https://github.com/cnaron/blog/issues/7)--2025-12-08
 - [我不想分别](https://github.com/cnaron/blog/issues/5)--2024-11-27
 - [那些被一再搁浅，却又总在心里回响的计划们](https://github.com/cnaron/blog/issues/4)--2024-10-02
 - [漫长的假期](https://github.com/cnaron/blog/issues/3)--2024-08-19
 - [一场将行未行的旅行](https://github.com/cnaron/blog/issues/2)--2024-07-08
+<details><summary>显示更多</summary>
+
 - [第一篇](https://github.com/cnaron/blog/issues/1)--2024-07-03
+</details>
+
 ## 2024
 
 - [我不想分别](https://github.com/cnaron/blog/issues/5)--2024-11-27
@@ -26,4 +31,5 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 - [第一篇](https://github.com/cnaron/blog/issues/1)--2024-07-03
 ## 2025
 
+- [藏在优惠之下的昂贵](https://github.com/cnaron/blog/issues/7)--2025-12-08
 - [一年过去了](https://github.com/cnaron/blog/issues/6)--2025-11-27
